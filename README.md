@@ -3,4 +3,4 @@ List of Dutch words for importing them for programs that support the .dic extens
 
 Was created because felt need to have Dutch .dic file in JetBrains IDEs.
 
-Based on following file: https://intellij-support.jetbrains.com/hc/en-us/community/posts/206341099-Dutch-language-dictionary-spelling-file
+Based on following file: http://adm-10980.intellij.net/zendesk-forum-storage/jc/5498924/dutch.dic.zip
