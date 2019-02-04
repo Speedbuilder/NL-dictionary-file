@@ -1,5 +1,5 @@
 # NL-dictionary-file
-List of Dutch words for importing them for programs that support the .dic extension
+List of Dutch words for importing them for programs that support the .dic extension.
 
 Was created because felt need to have Dutch .dic file in JetBrains IDEs.
 
