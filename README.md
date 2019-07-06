@@ -11,4 +11,4 @@ Based on following file: http://adm-10980.intellij.net/zendesk-forum-storage/jc/
 2. 'Editor' tab
 3. Under the Editor tab, select the 'Spelling' tab
 4. Select the 'Dictionaries'-option up top
-5. Under 'Custom Dictionaries' click the '+'-sign and locate your Dutch.dic file
+5. Under 'Custom Dictionaries' click the '+'-sign and locate your dutch.dic file
