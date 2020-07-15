@@ -14296,6 +14296,7 @@ bedrijfs-cao
 bedrijfs-pc-netwerk
 bedrijfsaansprakelijkheid
 bedrijfsactiviteit
+bedrijfsactiviteiten
 bedrijfsadministratie
 bedrijfsadvies
 bedrijfsadvisering
@@ -15621,6 +15622,7 @@ bekekene
 bekend
 bekende
 bekendheid
+bekendmaakt
 bekendmaken
 bekendmaking
 bekendstaan
@@ -16766,6 +16768,7 @@ bepalen
 bepalend
 bepaling
 bepalingaankondigend
+bepalingen
 bepalingsmethode
 bepantseren
 bepantsering
@@ -16776,6 +16779,7 @@ bepekken
 beperken
 beperkend
 beperking
+beperkingen
 beperkingengebied
 beperkingsgebied
 beperkt
@@ -17458,6 +17462,7 @@ beschreven
 beschrevene
 beschrijf
 beschrijfbaar
+beschrijft
 beschrijven
 beschrijvend
 beschrijver
@@ -33342,6 +33347,7 @@ derdelijnsinstellingen
 derdemacht
 derdemachtsvergelijking
 derdemachtswortel
+derden
 derdenbeslag
 derdendaags
 derderangs
@@ -35290,6 +35296,7 @@ documentatiepunt
 documentatiesysteem
 documentbeheer
 documentbestand
+documenten
 documentenbeheer
 documentenstroom
 documenteren
@@ -40137,6 +40144,7 @@ elektronicawinkel
 elektronicazaak
 elektronicus
 elektronisch
+elektronische
 elektrorail
 elektroscoop
 elektroshock
@@ -40764,6 +40772,7 @@ enthousiast
 enthousiasteling
 enting
 entiteit
+entiteiten
 entmateriaal
 entmes
 entomologie
@@ -41116,6 +41125,7 @@ erkenningsregeling
 erkenningsronde
 erkenningstermijn
 erkenningsvoorwaarde
+erkent
 erkentelijk
 erkentelijkheid
 erkentenis
@@ -42170,6 +42180,7 @@ exploitatievorm
 exploitatiewinst
 exploitatiezetel
 exploiteerbaar
+exploiteert
 exploiteren
 exploot
 exploratie
@@ -47652,6 +47663,7 @@ geldeenheid
 geldelijk
 gelden
 geldend
+geldende
 geldgebrek
 geldgever
 geldgewin
@@ -47932,6 +47944,7 @@ gelijkschakelen
 gelijkschakeling
 gelijkslachtig
 gelijksoortig
+gelijksoortige
 gelijksoortigheid
 gelijkspanning
 gelijkspanningscomponent
@@ -47959,6 +47972,7 @@ gelijkvormig
 gelijkvormigheid
 gelijkvormigheidsattest
 gelijkwaardig
+gelijkwaardige
 gelijkwaardigheid
 gelijkzetten
 gelijkzijdig
@@ -48709,6 +48723,7 @@ genoeglijkheid
 genoegzaam
 genoegzaamheid
 genoemd
+genoemde
 genoffel
 genomineerd
 genomineerde
@@ -49791,6 +49806,7 @@ gevoeglijk
 gevoel
 gevoelen
 gevoelig
+gevoelige
 gevoeligheid
 gevoeligheidsanalyse
 gevoelloos
@@ -49843,6 +49859,7 @@ gevorkt
 gevormd
 gevraag
 gevraagd
+gevraagde
 gevreesd
 gevrij
 gevrijwaarde
@@ -50434,6 +50451,7 @@ geïsoleerd
 geïsoleerdheid
 geünieerd
 geüniformeerd
+geüpload
 geürbaniseerd
 gft
 gft-afval
@@ -82141,6 +82159,7 @@ maidenspeech
 maidentrip
 mail
 mailadres
+mailadressen
 mailbericht
 mailbestand
 mailbom
@@ -82815,6 +82834,8 @@ marketentster
 marketing
 marketingaanpak
 marketingactie
+marketingactiviteit
+marketingactiviteiten
 marketingadvies
 marketingadviseur
 marketingafdeling
@@ -89551,6 +89572,7 @@ nadenken
 nadenkend
 nader
 naderbij
+nadere
 naderen
 naderhand
 nadering
@@ -93552,6 +93574,7 @@ omscholing
 omscholingscursus
 omscholingsprogramma
 omschoppen
+omschreven
 omschrevene
 omschrevenen
 omschrift
@@ -98367,6 +98390,7 @@ opgelopen
 opgelucht
 opgemaakt
 opgemerkt
+opgenomen
 opgepakt
 opgeplaatst
 opgeprikt
@@ -100493,6 +100517,7 @@ overdosering
 overdosis
 overdraagbaar
 overdraagbaarheid
+overdraagt
 overdracht
 overdrachtelijk
 overdrachtelijkheid
@@ -100605,6 +100630,7 @@ overgeclassificeerd
 overgeconcentreerd
 overgecultiveerd
 overgedienstig
+overgedragen
 overgefinancierd
 overgeganen
 overgegeven
@@ -104321,6 +104347,7 @@ personifiëring
 persontmoeting
 persoon
 persoonlijk
+persoonlijke
 persoonlijkheid
 persoonlijkheidscultus
 persoonlijkheidsfactor
@@ -114208,6 +114235,7 @@ reorganisatieproces
 reorganisatieronde
 reorganisatievoorziening
 reorganisator
+reorganiseert
 reorganiseren
 reparabel
 reparateur
@@ -127386,6 +127414,7 @@ staakboon
 staakmolen
 staaksgewijs
 staakster
+staakt
 staakt-het-vuren
 staal
 staalachtig
@@ -129269,6 +129298,7 @@ stemsleutel
 stemsoort
 stemspleet
 stemsysteem
+stemt
 stemtechniek
 stemtest
 stemtraining
@@ -141706,6 +141736,8 @@ uitgeversvak
 uitgeverswereld
 uitgeverszaak
 uitgevloerd
+uitgevoerd
+uitgevoerde
 uitgevuld
 uitgewandeld
 uitgewekene
@@ -145589,6 +145621,7 @@ vereffening
 vereisen
 vereist
 vereiste
+vereisten
 veren
 verendek
 verenen
@@ -145737,9 +145770,12 @@ verfwinkel
 verg.
 vergaan
 vergaand
+vergaar
 vergaarbak
-vergaard
 vergaarbekken
+vergaard
+vergaarde
+vergaart
 vergaderaar
 vergaderagenda
 vergadercentrum
@@ -146731,6 +146767,7 @@ verkoopstrategie
 verkoopsucces
 verkoopsvoorwaarden
 verkoopsysteem
+verkoopt
 verkooptactieken
 verkooptalent
 verkoopteam
@@ -147087,6 +147124,7 @@ vermeesteren
 vermeestering
 vermeien
 vermeld
+vermelde
 vermelden
 vermeldenswaard
 vermeldenswaardig
@@ -147485,6 +147523,7 @@ verplicht
 verplichten
 verplichtend
 verplichting
+verplichtingen
 verplichtingenstand
 verplichtstelling
 verplichtstellingsbeschikking
@@ -147627,6 +147666,9 @@ verschaald
 verschaffen
 verschaffer
 verschaffing
+verschaft
+verschafte
+verschaften
 verschalen
 verschalken
 verschalking
@@ -148277,6 +148319,7 @@ vertrouwd
 vertrouwde
 vertrouwdheid
 vertrouwelijk
+vertrouwelijke
 vertrouwelijkheid
 vertrouweling
 vertrouwelinge
@@ -149133,6 +149176,9 @@ verzinnelijking
 verzinnen
 verzinsel
 verzitten
+verzocht
+verzochte
+verzochten
 verzoek
 verzoeken
 verzoeker
@@ -149144,6 +149190,7 @@ verzoekprogramma
 verzoekschrift
 verzoekschriftprocedure
 verzoekster
+verzoekt
 verzoenbaar
 verzoendag
 verzoendeksel
@@ -149171,6 +149218,12 @@ verzoeten
 verzoeting
 verzolen
 verzoling
+verzon
+verzond
+verzonde
+verzondde
+verzondden
+verzonden
 verzonken
 verzonnen
 verzopen
@@ -151976,6 +152029,7 @@ voldoen
 voldoend
 voldoende
 voldoening
+voldoet
 voldongen
 voldragen
 voleinden
@@ -152693,6 +152747,7 @@ voordienen
 voordochter
 voordoek
 voordoen
+voordoet
 voordracht
 voordrachtgever
 voordrachtkunst
@@ -157881,6 +157936,7 @@ wenslijst
 wensmoeder
 wensouder
 wensput
+wenst
 wensvader
 wensvervulling
 wensvoorstelling
@@ -158937,6 +158993,7 @@ wetswijziging
 wetswinkel
 wettekst
 wettelijk
+wettelijke
 wettelijkheid
 wetteloos
 wetteloosheid
@@ -159471,6 +159528,7 @@ wijzerzin
 wijzigbaar
 wijzigen
 wijziging
+wijzigingen
 wijzigingenreeks
 wijzigingsbesluit
 wijzigingsbevoegdheid
@@ -161443,6 +161501,7 @@ zakdoek
 zakduit
 zakeditie
 zakelijk
+zakelijke
 zakelijkheid
 zaken
 zakenadvocaat
@@ -162371,6 +162430,7 @@ zelden
 zeldzaam
 zeldzaamheid
 zeldzaamheidswaarde
+zeldzame
 zelf
 zelfaanvaarding
 zelfacceptatie
